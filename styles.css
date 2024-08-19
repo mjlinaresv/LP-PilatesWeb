@@ -1,0 +1,25 @@
+.col-img {
+    background: url(showcase.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bg-primary{
+    background: #a6a19b!important;
+}
+
+.btn-secondary{
+    background: #b48e6f!important;
+    border: none;
+}
+
+.pb-6 {
+    padding-bottom: 10px;
+}
+
+@media (max-width:768px){
+    .pb-6 {
+        padding-bottom: 80px;
+    }
+}
